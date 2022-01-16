@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.bangundatar;
+
 import java.util.Scanner;
 
 public class Main {

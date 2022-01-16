@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.bangundatar;
+
 public class Lingkaran implements BangunDatar {
     private double pi = 3.1415;
 

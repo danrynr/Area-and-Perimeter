@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.bangundatar;
+
 public class Layang implements BangunDatar {
     Layang() {}
 

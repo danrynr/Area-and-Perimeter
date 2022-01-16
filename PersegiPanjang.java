@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.bangundatar;
+
 public class PersegiPanjang implements BangunDatar {
     PersegiPanjang() {}
 
